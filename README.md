@@ -1,4 +1,4 @@
-# Hash Hash Hash
+# Thread-Safe Hash
 The goal of this lab is to implement a thread-safe hash table in C using mutex locks. There are two versions: v1 with a single lock and v2 with fine-grained locking. Each version is compared to the base implementation - which runs on 1 thread - in terms of correctness and performance. 
 
 ## Building
